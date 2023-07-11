@@ -1,0 +1,6 @@
+The Virtual Boy's first and only golf game features an 18-hole course at the fictitious Papillion Country Club. Choose either stroke or tournament play, with the latter pitting you against 47 computer players as you compete for the best total score. Before you hit the links, register your golfer's name so your stats can be saved to one of seven slots. The game will automatically save your best shots and track stats in the following eight categories:  longest drive, nearest to pin, average score, longest putt, number of victories, pars or better, longest chip, and fairways driven. Shots are initiated by navigating through a series of icons and reading the swing meter. Choose your club, adjust your stance, determine the power, and set the ball impact point, all while taking into account the direction and strength of the wind.
+
+Features:
+ Choose one of two play options: stroke play or tournament
+ Compete against 47 computer-controlled golfers
+ Avoid water hazards, bunkers, and trees while making your shots
